@@ -14,7 +14,20 @@ By completing this task, you will learn how to:
 ## 🛠️ Tools Used  
 - **Minikube** – Run a local Kubernetes cluster  
 - **kubectl** – Manage Kubernetes resources  
-- **Docker** – Build container images  
+- **Docker** – Build container images
+
+## Screenshots
+ <img src="./images/result1.png" alt="screenshot" width="800"/>
+
+## Screenshots
+ <img src="./images/result2.png" alt="screenshot" width="800"/>
+
+ ## Screenshots
+ <img src="./images/result3.png" alt="screenshot" width="800"/>
+
+  ## Screenshots
+ <img src="./images/result4.png" alt="screenshot" width="800"/>
+
 
 ---
 
@@ -137,5 +150,7 @@ Scaling → Increase/decrease replicas for load management
 Port-forwarding → Access services locally
 
 Rolling Updates → Update apps without downtime
+
+
 
 
