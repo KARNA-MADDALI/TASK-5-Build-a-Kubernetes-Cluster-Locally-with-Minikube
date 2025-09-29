@@ -25,9 +25,6 @@ By completing this task, you will learn how to:
  ## Screenshots
  <img src="./images/result3.png" alt="screenshot" width="800"/>
 
-  ## Screenshots
- <img src="./images/result4.png" alt="screenshot" width="800"/>
-
 ---
 
 ## 📂 Project Structure  
